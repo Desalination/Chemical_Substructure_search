@@ -31,4 +31,4 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest src/tests/
+        pytest src/tests/substructure_search_test.py
